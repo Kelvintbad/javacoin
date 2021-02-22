@@ -1,0 +1,2 @@
+# javacoin
+A Javascript Blockchain 
